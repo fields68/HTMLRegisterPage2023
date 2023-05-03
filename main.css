@@ -1,7 +1,7 @@
 body {
     background-color: #3d348b;
     margin: 0;
-    font-family: sans-serif;
+    font-family: 'Roboto Slab', serif;
     display: flex;
     height: 100vh;
 }
@@ -10,10 +10,10 @@ header {
     background-color: #7678ed;
     text-align: right;
     padding: .75rem;
-    border-bottom: solid 1px dimgray;
+    border-bottom: solid 1px #3d348b;
     box-shadow: 
-        0 4px 8px 0 rgba(0, 0, 0, 0.2),
-        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        0 4px 8px 0 rgba(118, 120, 237, 0.652),
+        0 6px 20px 0 rgba(118, 120, 237, 0.583);
     position: fixed;
     top: 0;
     left: 0;
